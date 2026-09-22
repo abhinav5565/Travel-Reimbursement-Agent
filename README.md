@@ -175,8 +175,6 @@ If you want to demonstrate the agentic workflow, run that optional setup cell.
 The optional agentic flow uses Groq through its OpenAI-compatible API.
 
 
-Then restart the Jupyter kernel and run the notebook.
-
 ### Option B — Notebook prompt
 
 If `GROQ_API_KEY` is not present, the optional setup cell prompts for the key securely using `getpass`.

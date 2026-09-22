@@ -141,7 +141,7 @@ For Manual Review cases, the notebook does not force a final reimbursement amoun
 
 ```bash
 git clone <repository-url>
-cd travel-reimbursement-agent
+cd Travel-Reimbursement-Agent
 ```
 
 ### 2. Install dependencies

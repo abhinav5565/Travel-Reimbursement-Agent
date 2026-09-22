@@ -293,9 +293,3 @@ This is a lightweight case-study prototype rather than a production enterprise r
 - MCP-based external tool integrations
 
 ---
-
-
-The notebook is the primary deliverable and contains the complete runnable implementation.
-
----
-

@@ -35,7 +35,7 @@ The notebook evaluates all five sample claims provided in the case study and pro
                          v
               +---------------------+
               |   Groq LLM Agent    |
-              |   GPT-OSS 120B      |
+              |                     |
               +----------+----------+
                          |
                     Tool Calling

@@ -140,7 +140,7 @@ For Manual Review cases, the notebook does not force a final reimbursement amoun
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/abhinav5565/Travel-Reimbursement-Agent
 cd Travel-Reimbursement-Agent
 ```
 
